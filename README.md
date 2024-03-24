@@ -45,7 +45,7 @@ Program ini menggunakan tiga kelas yaitu kelas Mahasiswa, kelas Menu dan kelas D
     - Database(): membuat objek ‘Database’ dan menginisialisasi koneksi ke database (public)
     - selectQuery(String sql): menjalankan query SELECT (public ReslutSet)
     - insertUpdateDeleteQuery(Stringsql): menjalankan query INSERT, UPDATE atau DELETE (public int)
-    - getStatement(): mengembalikan objek ‘Statement’ yang digunakan untuk mengeksekusi SQL (public statement)
+    - getStatement(): mendapatkan objek ‘Statement’ yang digunakan untuk mengeksekusi SQL (public statement)
 
 # ALUR PROGRAM
 
